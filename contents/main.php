@@ -1,1 +1,1 @@
-<img src="/page/images/aurum.jpg" width="500">
+<img src="/pages/images/aurum.jpg" width="500">
