@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Page</title>
+    <title>Pages</title>
     <meta charset="UTF-8">
     <style>
         body {
